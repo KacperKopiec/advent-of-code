@@ -8,7 +8,8 @@ fi
 
 # Define the year and day folder structure
 DAY="day$1"
-TARGET_DIR="$DAY"
+YEAR="2024"
+TARGET_DIR="$YEAR/$DAY"
 
 # Create the target directory
 mkdir -p "$TARGET_DIR"
