@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(12/50)
+## Progress ⭐(14/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Historian Hysteria](https://adventofcode.com/2024/day/1) | ⭐⭐ | [🎯 Day 1](2024/day1/)   | 10630 / 9915 |
@@ -18,3 +18,4 @@ dayN/
 | [🎄 Day 4: Ceres Search](https://adventofcode.com/2024/day/4) | ⭐⭐ | [🎯 Day 4](2024/day4/)   | 5767 / 5617 |
 | [🎄 Day 5: Print Queue](https://adventofcode.com/2024/day/5) | ⭐⭐ | [🎯 Day 5](2024/day5/)   | 19896 / 15618 |
 | [🎄 Day 6: Guard Gallivant](https://adventofcode.com/2024/day/6) | ⭐⭐ | [🎯 Day 6](2024/day6/)   | 1134 / 503 |
+| [🎄 Day 7: Bridge Repair](https://adventofcode.com/2024/day/7) | ⭐⭐ | [🎯 Day 7](2024/day7/)   | 3603 / 3379 |
