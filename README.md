@@ -19,3 +19,4 @@ dayN/
 | [🎄 Day 5: Print Queue](https://adventofcode.com/2024/day/5) | ⭐⭐ | [🎯 Day 5](2024/day5/)   | 19896 / 15618 |
 | [🎄 Day 6: Guard Gallivant](https://adventofcode.com/2024/day/6) | ⭐⭐ | [🎯 Day 6](2024/day6/)   | 1134 / 503 |
 | [🎄 Day 7: Bridge Repair](https://adventofcode.com/2024/day/7) | ⭐⭐ | [🎯 Day 7](2024/day7/)   | 3603 / 3379 |
+| [🎄 Day 8: Resonant Collinearity](https://adventofcode.com/2024/day/8) | ⭐⭐ | [🎯 Day 8](2024/day8/)   | 2763 / 1891 |
