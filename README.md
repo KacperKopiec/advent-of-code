@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(20/50)
+## Progress ⭐(22/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Historian Hysteria](https://adventofcode.com/2024/day/1) | ⭐⭐ | [🎯 Day 1](2024/day1/)   | 10630 / 9915 |
@@ -22,3 +22,4 @@ dayN/
 | [🎄 Day 8: Resonant Collinearity](https://adventofcode.com/2024/day/8) | ⭐⭐ | [🎯 Day 8](2024/day8/)   | 2763 / 1891 |
 | [🎄 Day 9: Disk Fragmenter](https://adventofcode.com/2024/day/9) | ⭐⭐ | [🎯 Day 9](2024/day9/)   | 1315 / 1305 |
 | [🎄 Day 10: Hoof It](https://adventofcode.com/2024/day/10) | ⭐⭐ | [🎯 Day 10](2024/day10/)   | 1452 / 1022 |
+| [🎄 Day 11: Plutonian Pebbles](https://adventofcode.com/2024/day/11) | ⭐⭐ | [🎯 Day 11](2024/day11/)   | 3541 / 685 |
