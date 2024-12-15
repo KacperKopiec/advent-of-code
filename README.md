@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(26/50)
+## Progress ⭐(30/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Historian Hysteria](https://adventofcode.com/2024/day/1) | ⭐⭐ | [🎯 Day 1](2024/day1/)   | 10630 / 9915 |
@@ -25,3 +25,5 @@ dayN/
 | [🎄 Day 11: Plutonian Pebbles](https://adventofcode.com/2024/day/11) | ⭐⭐ | [🎯 Day 11](2024/day11/)   | 3541 / 685 |
 | [🎄 Day 12: Garden Groups](https://adventofcode.com/2024/day/12) | ⭐⭐ | [🎯 Day 12](2024/day12/)   | 2929 / 13686 |
 | [🎄 Day 13: Claw Contraption](https://adventofcode.com/2024/day/13) | ⭐⭐ | [🎯 Day 13](2024/day13/)   | 10679 / 7421 |
+| [🎄 Day 14: Restroom Redoubt](https://adventofcode.com/2024/day/14) | ⭐⭐ | [🎯 Day 14](2024/day14/)   | 2374 / 3428 |
+| [🎄 Day 15: Warehouse Woes](https://adventofcode.com/2024/day/15) | ⭐⭐ | [🎯 Day 15](2024/day15/)   | 1322 / 1151 |
