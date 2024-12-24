@@ -35,3 +35,4 @@ dayN/
 | [🎄 Day 21: Keypad Conundrum](https://adventofcode.com/2024/day/21) | ⭐⭐ | [🎯 Day 21](2024/day21/)   | 15890 / 12250 |
 | [🎄 Day 22: Monkey Market](https://adventofcode.com/2024/day/22) | ⭐⭐ | [🎯 Day 22](2024/day22/)   | 21261 / 18167 |
 | [🎄 Day 23: LAN Party](https://adventofcode.com/2024/day/23) | ⭐⭐ | [🎯 Day 23](2024/day23/)   | 18994 / 16532 |
+| [🎄 Day 24: Crossed Wires](https://adventofcode.com/2024/day/24) | ⭐⭐ | [🎯 Day 24](2024/day24/)   | 10237 / 4682 |
