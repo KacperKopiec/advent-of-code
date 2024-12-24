@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(32/50)
+## Progress ⭐(46/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Historian Hysteria](https://adventofcode.com/2024/day/1) | ⭐⭐ | [🎯 Day 1](2024/day1/)   | 10630 / 9915 |
@@ -28,3 +28,10 @@ dayN/
 | [🎄 Day 14: Restroom Redoubt](https://adventofcode.com/2024/day/14) | ⭐⭐ | [🎯 Day 14](2024/day14/)   | 2374 / 3428 |
 | [🎄 Day 15: Warehouse Woes](https://adventofcode.com/2024/day/15) | ⭐⭐ | [🎯 Day 15](2024/day15/)   | 1322 / 1151 |
 | [🎄 Day 16: Reindeer Maze](https://adventofcode.com/2024/day/16) | ⭐⭐ | [🎯 Day 16](2024/day16/)   | 10582 / 6933 |
+| [🎄 Day 17: Chronospatial Computer](https://adventofcode.com/2024/day/17) | ⭐⭐ | [🎯 Day 17](2024/day17/)   | 4904 / 22711 |
+| [🎄 Day 18: RAM Run](https://adventofcode.com/2024/day/18) | ⭐⭐ | [🎯 Day 18](2024/day18/)   | 28773 / 28082 |
+| [🎄 Day 19: Linen Layout](https://adventofcode.com/2024/day/19) | ⭐⭐ | [🎯 Day 19](2024/day19/)   | 28109 / 25413 |
+| [🎄 Day 20: Race Condition](https://adventofcode.com/2024/day/20) | ⭐⭐ | [🎯 Day 20](2024/day20/)   | 23726 / 20034 |
+| [🎄 Day 21: Keypad Conundrum](https://adventofcode.com/2024/day/21) | ⭐⭐ | [🎯 Day 21](2024/day21/)   | 15890 / 12250 |
+| [🎄 Day 22: Monkey Market](https://adventofcode.com/2024/day/22) | ⭐⭐ | [🎯 Day 22](2024/day22/)   | 21261 / 18167 |
+| [🎄 Day 23: LAN Party](https://adventofcode.com/2024/day/23) | ⭐⭐ | [🎯 Day 23](2024/day23/)   | 18994 / 16532 |
