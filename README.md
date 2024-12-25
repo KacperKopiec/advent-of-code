@@ -9,7 +9,7 @@ dayN/
 ├─ input.in
 ```
 
-## Progress ⭐(46/50)
+## Progress ⭐(50/50)
 | Day | Status | Solution | Rank (Parts 1/2) |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Historian Hysteria](https://adventofcode.com/2024/day/1) | ⭐⭐ | [🎯 Day 1](2024/day1/)   | 10630 / 9915 |
@@ -36,3 +36,4 @@ dayN/
 | [🎄 Day 22: Monkey Market](https://adventofcode.com/2024/day/22) | ⭐⭐ | [🎯 Day 22](2024/day22/)   | 21261 / 18167 |
 | [🎄 Day 23: LAN Party](https://adventofcode.com/2024/day/23) | ⭐⭐ | [🎯 Day 23](2024/day23/)   | 18994 / 16532 |
 | [🎄 Day 24: Crossed Wires](https://adventofcode.com/2024/day/24) | ⭐⭐ | [🎯 Day 24](2024/day24/)   | 10237 / 4682 |
+| [🎄 Day 25: Code Chronicle](https://adventofcode.com/2024/day/25) | ⭐⭐ | [🎯 Day 25](2024/day25/)   | 10891 / 7016 |
