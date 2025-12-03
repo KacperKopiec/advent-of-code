@@ -22,11 +22,11 @@ EOL
 cat <<EOL > "$TARGET_DIR/dune"
 (executable
  (name part1)
- (libraries advent))
+ (libraries advent fmt))
 
 (executable
  (name part2)
- (libraries advent))
+ (libraries advent fmt))
 EOL
 
 # Notify the user of completion
