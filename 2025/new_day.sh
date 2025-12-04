@@ -13,6 +13,7 @@ mkdir -p "$TARGET_DIR"
 touch "$TARGET_DIR/part1.ml"
 touch "$TARGET_DIR/part2.ml"
 touch "$TARGET_DIR/input.in"
+touch "$TARGET_DIR/test.in"
 touch "$TARGET_DIR/dune"
 
 cat <<EOL > "$TARGET_DIR/part1.ml"
@@ -22,11 +23,11 @@ EOL
 cat <<EOL > "$TARGET_DIR/dune"
 (executable
  (name part1)
- (libraries advent fmt))
+ (libraries advent))
 
 (executable
  (name part2)
- (libraries advent fmt))
+ (libraries advent))
 EOL
 
 # Notify the user of completion
@@ -36,3 +37,4 @@ echo "$TARGET_DIR/part1.ml"
 echo "$TARGET_DIR/part2.ml"
 echo "$TARGET_DIR/dune"
 echo "$TARGET_DIR/input.in"
+echo "$TARGET_DIR/test.in"
