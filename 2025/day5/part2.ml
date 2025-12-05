@@ -31,7 +31,6 @@ let merge lst =
   in
   aux 0 0 lst
 
-
 let () =
   events
   |> merge
