@@ -33,3 +33,20 @@ let neighbours grid y x dirs =
     let nx = x + dx in
     if 0 <= ny && ny < rows && 0 <= nx && nx < cols then Some (ny, nx) else None  
   )
+
+let zip lists = 
+  let rec step lists = 
+    match lists with
+    | [] -> Some []
+    | l :: ls ->
+      match step ls, l with
+      | _, [] -> None
+      | Some heads, x :: _ -> Some (x :: heads)
+      | None, _ -> None
+  in 
+  let rec loop lists acc =
+    match step lists with
+    | None -> List.rev acc
+    | Some xs -> let lists = List.map List.tl lists in loop lists (xs :: acc)
+  in
+  loop lists []
