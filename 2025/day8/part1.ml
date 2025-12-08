@@ -38,11 +38,11 @@ type point = {
   index : int;
 }
 
-let dist p1 p2 =
+let dist2 p1 p2 =
   let xx = p1.x - p2.x in
   let yy = p1.y - p2.y in
   let zz = p1.z - p2.z in
-  sqrt(float_of_int (xx * xx + yy * yy + zz * zz))
+  xx * xx + yy * yy + zz * zz
 
 let parse idx = function
 | [a; b; c] -> { x = int_of_string a; y = int_of_string b; z = int_of_string c; index = idx }
@@ -53,13 +53,13 @@ let points = Advent.read_lines filename |> List.mapi (fun idx s -> parse idx (St
 let distances =
   let rec aux p acc = function
   | [] -> acc
-  | x :: xs -> aux p ((dist p x, p.index, x.index) :: acc) xs
+  | x :: xs -> aux p ((dist2 p x, p.index, x.index) :: acc) xs
 in
 let rec fold acc = function
 | [] -> acc
 | x :: xs -> fold (aux x acc xs) xs
 in
-fold [] points |> List.sort (fun (d1, _, _) (d2, _, _) -> Float.compare d1 d2)
+fold [] points |> List.sort (fun (d1, _, _) (d2, _, _) -> compare d1 d2)
 
 let dsu = init_dsu (List.length points)
 
