@@ -1,0 +1,9 @@
+(executable
+ (name part1)
+ (modules part1)
+ (libraries advent))
+
+(executable
+ (name part2)
+ (modules part2)
+ (libraries advent z3))
