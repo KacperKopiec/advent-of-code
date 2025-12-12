@@ -9,7 +9,7 @@ dayN/
 ├─ part2.ml
 ```
 
-## Progress ⭐(22/24)
+## Progress ⭐(24/24)
 | Day | Status | Part 1 | Part 2 |
 | ----------- | ---------| -------- | --------- |
 | [🎄 Day 1: Secret Entrance](https://adventofcode.com/2025/day/1) | ⭐⭐ | [🎯 Part 1](2025/day1/part1.ml) | [🎯 Part 2](2025/day1/part2.ml) |
@@ -23,3 +23,4 @@ dayN/
 | [🎄 Day 9: Movie Theater](https://adventofcode.com/2025/day/9) | ⭐⭐ | [🎯 Part 1](2025/day9/part1.ml) | [🎯 Part 2](2025/day9/part2.ml) |
 | [🎄 Day 10: Factory](https://adventofcode.com/2025/day/10) | ⭐⭐ | [🎯 Part 1](2025/day10/part1.ml) | [🎯 Part 2](2025/day10/part2.ml) |
 | [🎄 Day 11: Reactor](https://adventofcode.com/2025/day/11) | ⭐⭐ | [🎯 Part 1](2025/day11/part1.ml) | [🎯 Part 2](2025/day11/part2.ml) |
+| [🎄 Day 12: Christmas Tree Farm](https://adventofcode.com/2025/day/12) | ⭐⭐ | [🎯 Part 1](2025/day12/part1.ml) |  |
